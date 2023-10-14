@@ -1,7 +1,5 @@
 ### Hi there 👋
 #### I'm Android Developer!
-I mostly program native Android applications.<br/>
-I can use C++, JNI on JVM platforms.
 
 ### ⭐ Skills
 #### Platforms & Languages
